@@ -1,0 +1,4 @@
+*.BAT
+*.class
+out/*
+.idea/*
